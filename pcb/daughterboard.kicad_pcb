@@ -580,7 +580,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 0650b5b5-257a-48ef-bea0-628b9a87f0f9)
-    (at 97.468625 86.817041)
+    (at 44.69782 107.1)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -1095,7 +1095,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 12afaaca-0af6-41b8-8072-6300555da042)
-    (at 104.341445 73.842041)
+    (at 51.57064 94.125)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -1567,7 +1567,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 20f8741b-5a66-456e-a4d1-e6dbaeead04f)
-    (at 80.15218 60.7)
+    (at 27.381375 80.982959)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -2082,7 +2082,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 31b3a269-cec6-453a-b9aa-21707ae0a6e2)
-    (at 113.243625 76.442041)
+    (at 60.47282 96.725)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -2554,7 +2554,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 320090ba-4f6a-4f98-be3a-019d4a87b84a)
-    (at 86.95 58.1)
+    (at 34.179195 78.382959)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -3026,7 +3026,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 37d3bf2b-1361-43a6-a660-8e584912f573)
-    (at 80.15 66)
+    (at 27.379195 86.282959)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -3498,7 +3498,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 3c31ca93-0f8c-4112-acd7-29e1e23418af)
-    (at 113.245805 71.142041)
+    (at 60.475 91.425)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -3970,7 +3970,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 419cd6ec-a488-4914-8147-cea928dc8b33)
-    (at 88.643625 68.542041)
+    (at 35.87282 88.825)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -4960,7 +4960,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 561099e0-143b-4476-90ab-c417c91b1a04)
-    (at 111.55 66)
+    (at 58.779195 86.282959)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -5468,7 +5468,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 5c1c0872-48bc-4ef5-9e67-ff7d99368015)
-    (at 81.845805 71.142041)
+    (at 29.075 91.425)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -5940,7 +5940,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 5d7fd2f2-b65b-4c3f-8d3a-aa51d7e829b2)
-    (at 97.470805 81.517041)
+    (at 44.7 101.8)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -6412,7 +6412,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 5e280a08-9187-4a6b-874a-935b8a2a38d8)
-    (at 113.170805 81.517041)
+    (at 60.4 101.8)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -6884,7 +6884,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 5fd956ea-65d6-43f8-ada9-d42beef6dfb4)
-    (at 71.24782 63.4)
+    (at 18.477015 83.682959)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -7356,7 +7356,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 6319e6b6-80ef-4c5d-932b-ba0c8406594e)
-    (at 111.55218 60.7)
+    (at 58.781375 80.982959)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -7828,7 +7828,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 6539f7d4-922c-4fe0-9022-4feaa478628d)
-    (at 72.943625 68.542041)
+    (at 20.17282 88.825)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -8371,7 +8371,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 752adc48-1717-4d51-9f8e-0abf0c5bc60d)
-    (at 102.65 58.1)
+    (at 49.879195 78.382959)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -8843,7 +8843,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 7a4a755d-2ace-41c1-b10d-7757788b8203)
-    (at 102.64782 63.4)
+    (at 49.877015 83.682959)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -9315,7 +9315,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 7d3d9724-1ec5-4bd6-97fe-4cd5bae4f4fc)
-    (at 88.568625 78.917041)
+    (at 35.79782 99.2)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -9787,7 +9787,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 8c0d65e1-4a4d-4982-a3de-a94643ed355b)
-    (at 95.85218 60.7)
+    (at 43.081375 80.982959)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -10259,7 +10259,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 8ed6e2e9-0e0e-4322-a33b-b853bb7e081e)
-    (at 72.866445 84.217041)
+    (at 20.09564 104.5)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -10817,7 +10817,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp 97987df8-d8e7-4d55-a078-d72d63e83d53)
-    (at 104.268625 78.917041)
+    (at 51.49782 99.2)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -11325,7 +11325,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp a45fee19-112c-4efc-adc0-944a9576a9a9)
-    (at 88.566445 84.217041)
+    (at 35.79564 104.5)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -11797,7 +11797,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp a925557b-e9dd-41f8-a10a-599d36feb447)
-    (at 113.168625 86.817041)
+    (at 60.39782 107.1)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -12312,7 +12312,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp b90e8e2f-126c-412b-aa14-0d7b21dbf20b)
-    (at 72.868625 78.917041)
+    (at 20.09782 99.2)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -12784,7 +12784,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp c26a0cfa-227c-4ad3-b222-293f5a045469)
-    (at 81.768625 86.817041)
+    (at 28.99782 107.1)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -13256,7 +13256,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp c770d322-f1d4-46b3-94a1-5bfe4a1bc226)
-    (at 97.543625 76.442041)
+    (at 44.77282 96.725)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -13771,7 +13771,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp d4bedadc-f439-45cd-834f-26d7ff906a4e)
-    (at 104.266445 84.217041)
+    (at 51.49564 104.5)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -14243,7 +14243,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp d82ea56e-b629-408a-8d8f-1529fb9581f9)
-    (at 97.545805 71.142041)
+    (at 44.775 91.425)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -14715,7 +14715,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp d8db881e-974e-4d28-b8f8-52e4042d31c2)
-    (at 72.941445 73.842041)
+    (at 20.17064 94.125)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -15187,7 +15187,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp d9060544-46f6-4487-80e9-f90e4a72e044)
-    (at 81.770805 81.517041)
+    (at 29 101.8)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -15659,7 +15659,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp d96fcfc4-198a-40d1-8c36-e3894d57ecb5)
-    (at 88.641445 73.842041)
+    (at 35.87064 94.125)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -16131,7 +16131,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp e2543627-5409-4a7b-8859-04e0792eebb7)
-    (at 95.85 66)
+    (at 43.079195 86.282959)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -16603,7 +16603,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp e7c62455-092d-4b40-96ae-88b150e3c5b0)
-    (at 86.94782 63.4)
+    (at 34.177015 83.682959)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -17075,7 +17075,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp ea555370-71a8-429f-99f5-30fb1c7e013f)
-    (at 81.843625 76.442041)
+    (at 29.07282 96.725)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -17547,7 +17547,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp f4f34c90-9633-4163-9f78-30046b80d31b)
-    (at 104.343625 68.542041)
+    (at 51.57282 88.825)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -18019,7 +18019,7 @@
 
   (footprint "kibuzzard-6284F97C" (layer "F.Cu")
     (tedit 6284F97C) (tstamp f97e22f8-fe4d-45c7-8a25-fe7ddb6ef872)
-    (at 71.25 58.1)
+    (at 18.479195 78.382959)
     (descr "Converted using: scripting")
     (tags "svg2mod")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -18820,7 +18820,7 @@
   (gr_arc (start 46.721974 86.851974) (mid 46.35 87.75) (end 45.451974 88.121974) (layer "Edge.Cuts") (width 0.1) (tstamp 81ed8bef-7c37-4718-895e-e317bff5e2eb))
   (gr_arc (start 29.034304 95.198377) (mid 29.296132 95.91338) (end 28.666084 95.485802) (layer "Edge.Cuts") (width 0.2) (tstamp 8826a1d1-df88-45a1-aa5f-e1afae085e95))
   (gr_arc (start 44.768065 95.576031) (mid 44.515972 95.547874) (end 44.276595 95.463953) (layer "Edge.Cuts") (width 0.2) (tstamp 8b9d047e-dca2-4088-9e09-8fff2b4c17cf))
-  (gr_arc (start 38.846217 88.523217) (mid 39.0085 89.72239) (end 37.989452 90.374996) (layer "Edge.Cuts") (width 0.2) (tstamp 8d4f131d-fa9f-4950-9005-b0558b9ba442))
+  (gr_arc (start 38.846217 88.523217) (mid 39.0085 89.722391) (end 37.989452 90.374996) (layer "Edge.Cuts") (width 0.2) (tstamp 8d4f131d-fa9f-4950-9005-b0558b9ba442))
   (gr_line (start 26.282412 75.6) (end 30 75.6) (layer "Edge.Cuts") (width 0.1) (tstamp 8e4efdf1-bfbc-4eff-961a-3caef13ce3f8))
   (gr_line (start 27.26939 88.136783) (end 26.273026 88.096974) (layer "Edge.Cuts") (width 0.1) (tstamp 964e7b27-3b83-41fa-a349-ae79b4ba19ae))
   (gr_arc (start 27.471817 108.071974) (mid 26.573791 107.7) (end 26.201817 106.801974) (layer "Edge.Cuts") (width 0.1) (tstamp 997001a3-01e4-48d0-b255-94f97f00632f))
